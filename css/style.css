@@ -1,0 +1,97 @@
+.bg-header {
+    background-image: url('../img/plombier.jpg');
+    background-size: cover;
+    height: 500px !important;
+}
+header {
+  margin-bottom: 5%;
+}
+
+.titre{
+  color: #fff;
+  margin-top: 200px;
+}
+
+.p1{
+  margin-bottom: 80px;
+}
+
+/*#############################footer###########################################*/
+.social:hover {
+     -webkit-transform: scale(1.1);
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+ }
+ .social {
+     -webkit-transform: scale(0.8);
+     /* Browser Variations: */
+
+     -moz-transform: scale(0.8);
+     -o-transform: scale(0.8);
+     -webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+     -o-transition-duration: 0.5s;
+ }
+
+/*
+    Multicoloured Hover Variations
+*/
+
+ #social-fb:hover {
+     color: #3B5998;
+ }
+ #social-tw:hover {
+     color: #4099FF;
+ }
+ #social-gp:hover {
+     color: #d34836;
+ }
+ #social-em:hover {
+     color: #f39c12;
+ }
+
+footer{
+  background-color: #37444D;
+  margin-top: 20px;
+}
+
+ /*#############################end footer######################################*/
+
+ .envoyer{
+   margin-left: 10%;
+   padding: 0;
+
+ }
+
+
+ .Nom{
+   width: 40%;
+   margin-top: 15px;
+   margin-left: 10%;
+ }
+
+ .Prenom{
+   width: 40%;
+   margin-left: 5px;
+ }
+
+ .mail{
+   width: 81%;
+   margin-top: 20px;
+   margin-left: 10%;
+ }
+
+ .Message{
+   width: 81%;
+   padding-bottom: 30%;
+   margin-top: 20px;
+   margin-left: 10%;
+ }
+
+ .envoyer{
+   margin-top: 60px;
+   margin-left: 10%;
+   background-color: #37444D;;
+   border-color: #37444D;;
+   color: #fff;
+ }
